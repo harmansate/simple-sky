@@ -1,0 +1,9 @@
+{
+  "name": "simplesky",
+  "version": "0.0.1",
+  "description": "Yo!!",
+  "main": "index.js",
+  "author": "@harmansate",
+  "repository": "https://github.com/harmansate/simple-sky",
+  "license": "ISC",
+}
